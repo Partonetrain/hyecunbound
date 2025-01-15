@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:protection",
+    "hold_your_enemies_closer:frost_protection"
+  ]
+}
