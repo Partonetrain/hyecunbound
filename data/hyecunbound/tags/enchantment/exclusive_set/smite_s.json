@@ -1,6 +1,10 @@
 {
   "values": [
     "minecraft:sharpness",
-    "minecraft:bane_of_arthropods"
+    "minecraft:smite",
+    {
+      "required": false,
+      "id": "deeperdarker:sculk_smite"
+    }
   ]
 }
