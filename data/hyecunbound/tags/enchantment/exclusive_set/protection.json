@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:protection",
+    "minecraft:blast_protection",
+    "minecraft:projectile_protection",
+    "minecraft:fire_protection",
+    "hold_your_enemies_closer:frost_protection",
+    "hyecunbound:magic_protection"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "values":[
+        "leather_horse_armor",
+        "iron_horse_armor",
+        "diamond_horse_armor",
+        "golden_horse_armor",
+        "wolf_armor",
+        {
+            "required": false,
+            "id": "dmr:dragon_armor"
+        }
+    ]
+}

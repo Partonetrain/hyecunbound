@@ -40,6 +40,7 @@
     "slots": [
       "armor"
     ],
-    "supported_items": "#minecraft:enchantable/armor",
+    "exclusive_set": "#hyecunbound:exclusive_set/protection",
+    "supported_items": "#hyecunbound:enchantable/humanoid_and_animal_armor",
     "weight": 10
   }

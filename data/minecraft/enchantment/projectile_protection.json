@@ -45,6 +45,6 @@
     "slots": [
       "armor"
     ],
-    "supported_items": "#minecraft:enchantable/armor",
+    "supported_items": "#hyecunbound:enchantable/humanoid_and_animal_armor",
     "weight": 5
   }
