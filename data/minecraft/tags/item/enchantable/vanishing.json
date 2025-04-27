@@ -1,6 +1,6 @@
 {   
     "replace": false,
     "values": [
-      "#hyecunbound:animal_armor"
+      "#hyecunbound:enchantable/animal_armor"
     ]
   }
